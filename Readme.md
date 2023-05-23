@@ -10,5 +10,5 @@
 
 ## A velocidade deles é variada aleatóriamente:
 - calculando aceleração e distância
-- variação de tempo através de time.sleep() e dateime.timedelta()
+- variação de tempo através de time.sleep() e datetime.timedelta()
 - Distância percorrida define o vencedor da "corrida", exibindo todos os carros na ordem
